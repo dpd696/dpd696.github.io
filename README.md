@@ -9,14 +9,14 @@
 ## Work Experience
 **Associate Director Enterprise Infrastructure Architect @ Clayton State University (_July 2023 - Present_)**
 - Management and Leadership:
--- Manages both the network services and systems engineering teams, directs, and evaluates assigned staff.
--- Addresses employee concerns, directs work, coaches, counsels, disciplines, and completes performance appraisals.
--- Train and mentor, the Network Services and Systems Engineering teams.
+    - Manages both the network services and systems engineering teams, directs, and evaluates assigned staff.
+    - Addresses employee concerns, directs work, coaches, counsels, disciplines, and completes performance appraisals.
+    - Train and mentor, the Network Services and Systems Engineering teams.
 - Work Organization and Prioritization:
--- Organizes, prioritizes, and assigns work activities to meet objectives and projects.
--- Ensures proper resources for subordinates, monitors work progress, and inspects completed work.
+    - Organizes, prioritizes, and assigns work activities to meet objectives and projects.
+    - Ensures proper resources for subordinates, monitors work progress, and inspects completed work.
 - Strategic Planning and Implementation:
--- Collaborate with Classroom Technology, Facilities Management, and third-party engineers/contractors in the planning, designing, and configuring of network and telecommunication services for new and renovated facilities.
+    - Collaborate with Classroom Technology, Facilities Management, and third-party engineers/contractors in the planning, designing, and configuring of network and telecommunication services for new and renovated facilities.
 -- Develops long- and short-term strategic plans, goals, and objectives for operational programs.
 -- Evaluates and enhances current services/systems.
 -- Implements changes and modifications based on performance evaluations.
